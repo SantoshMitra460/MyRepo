@@ -1,0 +1,81 @@
+.firstpara
+{
+    border-style:solid;
+    border-color:blue;
+    color:black;
+    background-color:papayawhip;
+    font-style:oblique;
+    font-weight:bold;
+    font-variant: small-caps;
+
+}
+.secondpara
+{
+    border-style:dotted;
+    border-color:green;
+    background-color:blanchedalmond;
+    color:blue;
+    font-size:medium;
+}
+.youtube
+{
+    background-color:red;
+    color:white;
+    border:none;
+    font-size: medium;
+    font-weight:bold;
+    padding-top:4px;
+    padding-bottom:4px;
+    padding-right:4px;
+    padding-left:4px;
+    border-radius:2px;
+    
+}
+.Twitter
+{
+  background-color: rgb(0, 153, 255);
+  color:white;
+  padding-top:4px;
+  padding-bottom:4px;
+  padding-bottom:4px;
+  padding-left:4px;
+  padding-right:4px;
+  border:none;
+
+}
+.para1
+{
+    border-style: solid;
+    border-color:blue;
+    background-color:papayawhip;
+    color:blue;
+
+}
+.first
+{
+    border-style:solid;
+    border-color:white;
+    border-width:2px;
+    border-radius:1px;
+    text-align:center;
+    background-color:black;
+    color:white;
+}
+.thirdpara
+{
+    border-style:solid;
+    border-color:blue;
+    border-radius:1px solid black;
+}
+.fourthpara
+{
+    border-style:1px solid red;
+}
+.p1{
+    border-style:1px solid green;
+    border-radius:2px;
+    color:blue;
+    background-color:papayawhip;
+    font-weight:bold;
+    font-size:medium;
+}
